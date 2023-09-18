@@ -4,8 +4,8 @@
 - Me apasiona la idea de utilizar la tecnología para abordar desafíos sociales y ecológicos.
 - 🤝 Estoy entusiasmada por la posibilidad de colaborar con otros desarrolladores en una variedad de proyectos y aprender de la comunidad.
 - 📫 Puedes contactarme a través de:
-* [posadalcarolina@gmail.com]
-* [LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
+posadalcarolina@gmail.com
+[LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
 
 ### Hi! I'm Carolina 👋
 - I'm a front-end web developer in training since April 2023.
@@ -13,8 +13,8 @@
 - I am passionate about using technology to address social and ecological challenges.
 - 🤝 I am excited about the possibility of collaborating with other developers on a variety of projects and learning from the community.
 - 📫 You can contact me through:
-* [posadalcarolina@gmail.com]
-* [LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
+posadalcarolina@gmail.com
+[LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
 
 ## Technologies & tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
