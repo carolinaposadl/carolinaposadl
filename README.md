@@ -16,7 +16,7 @@ I am passionate about using technology to address social and ecological challeng
 - posadalcarolina@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
 
-## Tecnologías & herramientas / Technologies & tools
+## Tecnologías y herramientas / Technologies and tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
