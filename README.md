@@ -1,17 +1,17 @@
 ### ¡Hola! Soy Carolina 👋
-Soy desarrolladora web front-end en formación desde abril de 2023.
-🚀 Actualmente estoy enfocada en aprender React y expandir mis habildiades en desarrollo web.
-Me apasiona la idea de utilizar la tecnología para abordar desafíos sociales y ecológicos.
-🤝 Estoy entusiasmada por la posibilidad de colaborar con otros desarrolladores en una variedad de proyectos y aprender de la comunidad.
+Desarrolladora web front-end en formación desde abril de 2023. 
+🚀 Actualmente estoy enfocada en aprender React y expandir mis habildiades, mi deseo es convertirme en una Full-Stack Developer. 
+Me apasiona la idea de utilizar la tecnología para abordar diversos desafíos sociales. 
+🤝 Me entusiasma la posibilidad de colaborar con otros desarrolladores en una variedad de proyectos y aprender de la comunidad. 
 📫 Puedes contactarme a través de:
 - posadalcarolina@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
 
 ### Hi! I'm Carolina 👋
-I'm a front-end web developer in training since April 2023.
-🚀 I'm currently focused on learning React and expanding my web development skills.
-I am passionate about using technology to address social and ecological challenges.
-🤝 I am excited about the possibility of collaborating with other developers on a variety of projects and learning from the community.
+Front-end web developer in training since April 2023. 
+🚀 I am currently focused on learning React and expanding my skills, my desire is to become a Full-Stack Developer. 
+I am passionate about using technology to address various social challenges. 
+🤝 I am excited about collaborating with other developers on a variety of projects and learning from the community. 
 📫 You can contact me through:
 - posadalcarolina@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
