@@ -1,22 +1,23 @@
-### ¡Hola! Soy Carolina 👋
-Desarrolladora web front-end en formación desde abril de 2023. 
-🚀 Actualmente estoy enfocada en aprender React y expandir mis habildiades, mi deseo es convertirme en una Full-Stack Developer. 
-Me apasiona la idea de utilizar la tecnología para abordar diversos desafíos sociales. 
-🤝 Me entusiasma la posibilidad de colaborar con otros desarrolladores en una variedad de proyectos y aprender de la comunidad. 
-📫 Puedes contactarme a través de:
-- posadalcarolina@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
-
 ### Hi! I'm Carolina 👋
-Front-end web developer in training since April 2023. 
-🚀 I am currently focused on learning React and expanding my skills, my desire is to become a Full-Stack Developer. 
-I am passionate about using technology to address various social challenges. 
-🤝 I am excited about collaborating with other developers on a variety of projects and learning from the community. 
+A Front-end web developer in training since April 2023. 
+💻 I'm currently learning React and SQL, committed to further expanding my skills in web development.
+🌱 My passion for learning drives me to be open to acquiring new skills and knowledge to meet the requirements or expectations of any project or company.
+🤝 I'm excited to collaborate with other developers on a variety of projects and learn from the community.
+
 📫 You can contact me through:
 - posadalcarolina@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
 
-## Tecnologías y herramientas / Technologies and tools
+### ¡Hola! Soy Carolina 👋
+Desarrolladora web Front-End en formación desde abril de 2023. 
+💻 Actualmente estoy aprendiendo React y SQL, comprometida a seguir expandiendo mis habilidades en el desarrollo web.
+🌱 Mi pasión por aprender me impulsa a estar abierta a adquirir nuevas habilidades y conocimientos para cumplir con los requisitos o expectativas de cualquier proyecto o empresa.
+🤝 Estoy emocionada por colaborar con otros desarrolladores en diferentes proyectos y aprender de la comunidad.
+📫 Puedes contactarme a través de:
+- posadalcarolina@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/carolina-posada-lopez/)
+
+## Technologies and tools / Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
